@@ -3,7 +3,7 @@ Desafio Nº 01 - Utilizar uma imagem de até 2MB e imprimir a mensagem "Full Cyc
 
 Comandos a ser executado:
 
-- docker run cooler2020/fullcyle
+- docker run cooler2020/fullcycle
 
 Retorno com a mensagem:
 
